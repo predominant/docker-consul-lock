@@ -1,0 +1,22 @@
+---
+version: '2'
+services:
+  mysh_1:
+    build: .
+    depends_on:
+      - consul_master
+  mysh_2:
+    build: .
+    depends_on:
+      - consul_master
+  mysh_3:
+    build: .
+    depends_on:
+      - consul_master
+  mysh_4:
+    build: .
+    depends_on:
+      - consul_master
+  consul_master:
+    image: consul
+    command: "agent -dev -log-level=warn"
