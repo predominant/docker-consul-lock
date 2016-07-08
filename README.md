@@ -19,7 +19,7 @@ Requirements:
 
 This spawns a trivial BASH process that outputs periods `.`.
 
-[![This alarm will sound every 3 seconds, unless something isn't okay](https://i.ytimg.com/vi/aJFyWBLeM7Q/hqdefault.jpg)][https://www.youtube.com/watch?v=aJFyWBLeM7Q]
+[![This alarm will sound every 3 seconds, unless something isn't okay](https://i.ytimg.com/vi/aJFyWBLeM7Q/hqdefault.jpg)](https://www.youtube.com/watch?v=aJFyWBLeM7Q)
 
 Assume for a moment that your business is reliant on these periods being output every 0.5 seconds. But only one at a time.
 
