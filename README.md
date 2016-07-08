@@ -2,6 +2,11 @@
 
 This was created while I was trying to determine how to write an example of how [Consul Lock][consul-lock] works practically. This was done for my own learning purposes, and to demonstrate to colleagues.
 
+Requirements:
+
+* docker
+* docker-compose
+
 ## tldr; how to run
 
 1. Clone this repository: `git clone https://github.com/predominant/docker-consul-lock.git`
